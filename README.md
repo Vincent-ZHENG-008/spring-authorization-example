@@ -1,2 +1,2 @@
 # spring-authorization-example
-about authorization and example by spring-security
+about authorization and authentication example by spring-security
