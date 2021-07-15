@@ -12,7 +12,7 @@ import javax.persistence.Table;
  * @since todo...
  */
 @Entity
-@Table("account_model")
+@Table(name = "account_model")
 public class AccountModel {
 
   @Id
